@@ -7,7 +7,10 @@ requires-python = ">=3.11"
 dependencies = [
     "aiohttp>=3.13.2",
     "chz>=0.4.0",
+    "ddgs>=9.10.0",
     "html2text>=2025.4.15",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.6",
     "lxml>=6.0.2",
     "mcp[cli]>=1.25.0",
     "openai>=2.14.0",
